@@ -210,6 +210,37 @@ Then, go to [http://localhost:5000/](http://localhost:5000) and you should see a
 
 * **Your Answer:**
 
+---
+
+- [ ] Visit the [Exercise: Express](https://github.com/pce-uw-jscript400/exercise-express) repository on GitHub. Follow the setup instructions and open the code in a code editor. Then, answer the following questions:
+
+* **Question:** Describe what is happening on the following line. What is the [shortid](https://www.npmjs.com/package/shortid) package and what is it being used for?
+  ```js
+  const { generate: generateId } = require('shortid')
+  ```
+
+* **Your Answer:**
+
+* **Question:** What routes are currently available to you as part of this application?
+
+* **Your Answer:**
+
+* **Question:** Look for `helpers.validate` in the `app.js` file. What is this and how does it work?
+
+* **Your Answer:**
+
+* **Question:** Try creating a new vegetable. Then, try restarting your server. What happens to the data you posted and why?
+
+* **Your Answer:**
+
+* **Question:** Take a look at the last two `app.use()` methods at the end of the file. Describe how both work and what `err` is refers to.
+
+* **Your Answer:**
+
+* **Question:** Take a look at the `package.json` file. What is [standardjs](https://standardjs.com/) and what will it do for you?
+
+* **Your Answer:**
+
 #### Resources
 
 - [Postman](https://www.getpostman.com)
